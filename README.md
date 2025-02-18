@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7cfc00&height=120&section=header"/> 
-## Olá seja bem vindo ao meu perfil...
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+My+name+is+Klebber+Souza;I'm+35+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7cfc00&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+seja+bem+vindo+ao+meu+perfil;me+chamo+Klebber+Souza;em+breve+um+Cientista+de+Dados+:%29)](https://git.io/typing-svg)
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-ff8c00?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 ### Social
